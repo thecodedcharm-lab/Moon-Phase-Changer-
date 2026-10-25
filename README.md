@@ -35,10 +35,10 @@ Moon Magic is a beginner-friendly interactive web project built using **HTML, CS
 
 ```text
 moon-magic/
+├── README.md
 ├── index.html
-├── style.css
 ├── script.js
-└── README.md
+└── style.css
 ```
 
 ## 🚀 How to Run
